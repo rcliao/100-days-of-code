@@ -52,3 +52,31 @@ be tricky as the logic to check different shape becomes different.
 
 https://github.com/rcliao/tetris
 
+## Day 3: January 1, 2017
+
+**Today's Progress**
+
+Today, I finished the following:
+
+* Multiple types of complex block (o shape, z, shape and so on)
+* Able to rotate complex type of block
+* Able to clear line when a line is filled
+
+**Thoughts:** 
+
+I spent quite a lot of time debating if my approach of composing the complex block
+with basic block would work or what not. I was fighting myself all along.
+
+Everything turns out to be working in my brain but my body refused to implement
+it because I was afraid that my design doesn't cover some of the "edge cases".
+
+This was quite sad to realize afterward but it's one of the weakness I need to 
+adjust.
+
+Overall, I enjoyed the work I've done today and felt proud of it!
+
+Tomorrow, I can start look into adding scores and fix some edge case bugs.
+
+**Link to work:** 
+
+https://github.com/rcliao/tetris

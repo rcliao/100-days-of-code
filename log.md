@@ -80,3 +80,36 @@ Tomorrow, I can start look into adding scores and fix some edge case bugs.
 **Link to work:** 
 
 https://github.com/rcliao/tetris
+
+## Day 4: January 2, 2016
+
+**Today's Progress**
+
+Today, I worked on improving multiple blocks logic and scoring system, which can
+be summarized below:
+
+* Score system
+* Color each block differently (for user experience)
+* Space to drop the block all the way
+
+**Thoughts:** 
+
+It's quite interesting to realize that color of blocks actually improve the 
+game experience by a lot. I'm actually able to enjoy the game myself! I found
+myself spending something like hours to play my own game and tried to figure
+what would be interesting to add on next.
+
+Although, all the new addons code I did today wasn't planned in the whole system
+all at once. In other word, those were easy to add on to existing code. I was
+also afrid that these things will be something I had to change in future.
+
+Next thing to do would be adding "next block" and make it easier to move block
+around when collision was about to happen.
+
+Of course, I still was interested to apply some software design patter (like
+composite) into my current code for better maintainability.
+
+**Link to work:** 
+
+https://github.com/rcliao/tetris
+

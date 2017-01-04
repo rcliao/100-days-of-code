@@ -113,3 +113,25 @@ composite) into my current code for better maintainability.
 
 https://github.com/rcliao/tetris
 
+## Day 5: January 3, 2016
+
+**Today's Progress**
+
+Further improvement on the Tetris game, I added up the following:
+
+* Display "Coming Next" block
+* Make collision detection softer (so players can move piece at the bottom easily)
+* Add lines cleared in UI
+
+**Thoughts:** 
+
+Work today are mostly enhancement and UI improvement. They are quite easy to add as long
+as they don't touch the main game logic. The most challenge part about Tetris is the block
+construction and collision detection.
+
+Next thing to do for this Tetris game is to add multi-player mode!
+
+**Link to work:** 
+
+https://github.com/rcliao/tetris
+

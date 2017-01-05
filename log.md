@@ -81,7 +81,7 @@ Tomorrow, I can start look into adding scores and fix some edge case bugs.
 
 https://github.com/rcliao/tetris
 
-## Day 4: January 2, 2016
+## Day 4: January 2, 2017
 
 **Today's Progress**
 
@@ -113,7 +113,7 @@ composite) into my current code for better maintainability.
 
 https://github.com/rcliao/tetris
 
-## Day 5: January 3, 2016
+## Day 5: January 3, 2017
 
 **Today's Progress**
 
@@ -130,6 +130,31 @@ as they don't touch the main game logic. The most challenge part about Tetris is
 construction and collision detection.
 
 Next thing to do for this Tetris game is to add multi-player mode!
+
+**Link to work:** 
+
+https://github.com/rcliao/tetris
+
+## Day 6: January 4, 2017
+
+**Today's Progress**
+
+Bug fixes!
+
+* Bug fixes on the move that will overlap on the existing block
+* Add level changes
+
+**Thoughts:** 
+
+Collision detection is very ... hard in the Tetris where I'm trying to move block
+in between grids. Probably it's better to take it off but then it's hard to 
+introduce the leveling.
+
+Anyhow, today I didn't get to implement the multiplayer mode as discussed yesterday.
+Would love to get into it at some point.
+
+Before the multiplayer mode, I need to first able to control the game better. 
+In other word, I need to be able to start/stop/restart the game first.
 
 **Link to work:** 
 

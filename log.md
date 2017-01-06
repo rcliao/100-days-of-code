@@ -160,3 +160,32 @@ In other word, I need to be able to start/stop/restart the game first.
 
 https://github.com/rcliao/tetris
 
+## Day 7: January 5, 2017
+
+**Today's Progress**
+
+Implemented game controls & start the server implementation.
+
+**Thoughts:** 
+
+I started thinking about how am I going to do the multiplayer mode for the Tetris game
+today. First step is to have control over when the game start and end.
+
+Then, I would need a web-server to handle the multi-player connections.
+
+I thought about using WebRTC to do the connection between players so that it's
+something my server doesn't need to do. However, WebRTC is tricky to implement
+based on the initial hand shake part.
+
+Thus, I picked to go with the stuff I already knew -- WebSocket server. However,
+I used Golang over Node.js because I want to learn the language.
+
+Got stucked half way implementing the server because I need to know how to 
+broadcast messages and that requires server to keep tracks of connections.
+
+Time to learn GoLang!
+
+**Link to work:** 
+
+https://github.com/rcliao/tetris
+

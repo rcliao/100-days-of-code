@@ -189,3 +189,23 @@ Time to learn GoLang!
 
 https://github.com/rcliao/tetris
 
+## Day 8: January 6, 2017
+
+**Today's Progress**
+
+Server side websocket implementation with Gorilla!
+
+**Thoughts:** 
+
+I didn't get too much time today to implement a lot. So I decide to copy the
+websocket implementation straight from the example of the Github.
+
+It's quite interesting to see how GoLang needs to handle the socket at very low
+level. This enforces me to learn the socket handling without fancy abstraction!
+
+Hopefully tomorrow I can get to start the interesting part -- message protocol!
+
+**Link to work:** 
+
+https://github.com/rcliao/tetris
+

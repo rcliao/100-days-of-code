@@ -209,3 +209,30 @@ Hopefully tomorrow I can get to start the interesting part -- message protocol!
 
 https://github.com/rcliao/tetris
 
+## Day 9: January 7, 2017
+
+**Today's Progress**
+
+I added private websocket channel for the multiplayer mode on Tetris game.
+
+**Thoughts:** 
+
+Today, I thought about the technical work items for adding multiplayer mode into Tetris game. Here are the items:
+
+- [x] Design a socket client in JavaScript
+- [ ] Show 2 Tetris boards
+- [ ] Board - new api method to accept new piece rather than random peice
+- [ ] Validation??
+- [x] GUID random room id
+- [x] Private room messaging
+- [x] Message protocol
+
+As shown above, the server side private messaging is almost done. There are still more clean up works to do but the 
+functionalities are there!
+
+I'm quite excited about the private messaging and eager to see how GoLang perform in the high scale world.
+
+**Link to work:** 
+
+https://github.com/rcliao/tetris
+

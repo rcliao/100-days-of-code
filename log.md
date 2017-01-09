@@ -236,3 +236,25 @@ I'm quite excited about the private messaging and eager to see how GoLang perfor
 
 https://github.com/rcliao/tetris
 
+## Day 10: January 8, 2017
+
+**Today's Progress**
+
+Refactor the existing Tetris game to expose next block control. So outside of the game, one can control what next block
+is.
+
+**Thoughts:** 
+
+Today, I refactor a bit on the Tetris game api itself. One need to control the next block instead of completely relying
+on the math random in the game itself. Specifically, one need to know what next block is so it can communicate the next
+block chagnes to the other player.
+
+This change yells at me that my API design for Tetris game wasn't completed! And it's quite challenge to know what 
+requirements api needs to meet ahead of time. In other word, a clear roadmap would help the api design a lot.
+
+However, without knowing what I want to end. API design needs to be as thin as possible.
+
+**Link to work:** 
+
+https://github.com/rcliao/tetris
+

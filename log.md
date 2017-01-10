@@ -258,3 +258,18 @@ However, without knowing what I want to end. API design needs to be as thin as p
 
 https://github.com/rcliao/tetris
 
+## Day 11: January 9, 2017
+
+**Today's Progress**
+
+Connect game to send message between clients.
+
+**Thoughts:** 
+
+Today, I worked on connecting the socket message to send game actions. However, I need to change the way board get next
+block to somehow controllable. Right now, the game plays but two board has weird differences on the block.
+
+**Link to work:** 
+
+https://github.com/rcliao/tetris
+

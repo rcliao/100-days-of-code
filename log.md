@@ -273,3 +273,21 @@ block to somehow controllable. Right now, the game plays but two board has weird
 
 https://github.com/rcliao/tetris
 
+## Day 12: January 10, 2017
+
+**Today's Progress**
+
+Fix the multiplayer state passing issue. Now one can play multiplayer mode locally.
+
+**Thoughts:** 
+
+Biggest challenge on the multiplayer mode is the number of information to send.
+
+As for now, it's sending the entire state information on every frame. This is fine
+locally when 1v1 but it's not fine when it goes through internet. This has to be
+fixed ASAP.
+
+**Link to work:** 
+
+https://github.com/rcliao/tetris
+

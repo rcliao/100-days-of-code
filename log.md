@@ -291,3 +291,22 @@ fixed ASAP.
 
 https://github.com/rcliao/tetris
 
+## Day 13: January 11, 2017
+
+**Today's Progress**
+
+* Adjust network usage for playability on server.
+* Research into CA Certificate for hosting secure websocket
+* Start looking into new idea for project
+
+**Thoughts:** 
+
+The Tetris game runs fine locally due to the network speed at localhost are 
+super fast. It doesn't work when launching on live server.
+
+Thus, the network usage need to be reduced.
+
+**Link to work:** 
+
+https://github.com/rcliao/tetris
+

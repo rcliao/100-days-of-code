@@ -310,3 +310,19 @@ Thus, the network usage need to be reduced.
 
 https://github.com/rcliao/tetris
 
+## Day 14: January 11, 2017
+
+**Today's Progress**
+
+* Launch BentoBox into AWS LightSail
+* Switch BentoBox from LightSail to DigitalOcean
+
+**Thoughts:** 
+
+Spent quite a lot of time figuring out the deployment. And realized tha LightSail
+is way slower when it comes to `npm install`
+
+**Link to work:** 
+
+http://45.55.3.226:8080/
+

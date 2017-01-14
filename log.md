@@ -326,3 +326,26 @@ is way slower when it comes to `npm install`
 
 http://45.55.3.226:8080/
 
+## Day 15: January 12, 2017
+
+**Today's Progress**
+
+* Experiment with landing page design
+* Add Google Map API
+
+**Thoughts:** 
+
+It's always a challenge for me, as developer, to think of design. I constantly
+get stucked on a single thing -- what problem are we solving?
+
+This single question in my mind usually prevent me from doing any further 
+implementation due to the fear that my work wouldn't be that useful without
+understanding the value of it.
+
+Therefore, today I spent quite some time to think about what problem are we 
+solving and what are our business value.
+
+**Link to work:** 
+
+http://45.55.3.226:8080/
+

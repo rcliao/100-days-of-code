@@ -349,3 +349,20 @@ solving and what are our business value.
 
 http://45.55.3.226:8080/
 
+## Day 16: January 13, 2017
+
+**Today's Progress**
+
+* New project document
+
+**Thoughts:** 
+
+Today, I want to go back to one of the project I had implemented long time ago in the game design class.
+I think the project still has valid idea and it's something I want to play if I created the game.
+
+And I wrote up the ideas down today. I will probably start the implementation tomorrow!
+
+**Link to work:** 
+
+https://github.com/non-player-games/FutureSpace/blob/master/docs/description.mdttp://45.55.3.226:8080/
+

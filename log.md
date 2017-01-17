@@ -364,5 +364,21 @@ And I wrote up the ideas down today. I will probably start the implementation to
 
 **Link to work:** 
 
-https://github.com/non-player-games/FutureSpace/blob/master/docs/description.mdttp://45.55.3.226:8080/
+https://github.com/non-player-games/FutureSpace/blob/master/docs/description.md
+
+
+## Day 17: January 16, 2017
+
+**Today's Progress**
+
+* [Design] Landing page improvement
+* [Refactor] Header changes
+
+**Thoughts:** 
+
+I primarly worked on the CSS part of the landing page and put the lorem content in place for future content.
+
+**Link to work:** 
+
+http://45.55.3.226:8080/
 

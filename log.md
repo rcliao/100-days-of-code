@@ -366,7 +366,6 @@ And I wrote up the ideas down today. I will probably start the implementation to
 
 https://github.com/non-player-games/FutureSpace/blob/master/docs/description.md
 
-
 ## Day 17: January 16, 2017
 
 **Today's Progress**
@@ -377,6 +376,20 @@ https://github.com/non-player-games/FutureSpace/blob/master/docs/description.md
 **Thoughts:** 
 
 I primarly worked on the CSS part of the landing page and put the lorem content in place for future content.
+
+**Link to work:** 
+
+http://45.55.3.226:8080/
+
+## Day 18: January 17, 2017
+
+**Today's Progress**
+
+* [Design] Landing page improvement
+
+**Thoughts:** 
+
+More minor design improvement to the landing page itself after receiving content.
 
 **Link to work:** 
 
